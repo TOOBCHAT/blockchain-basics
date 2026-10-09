@@ -1,0 +1,44 @@
+# Solana Mastery Tasks
+
+- [x] **Phase 1: Cryptography & Blockchain Foundations**
+  - [x] Lesson 1: Hashing
+  - [x] Lesson 2: Merkle Trees
+  - [x] Lesson 3: Asymmetric Cryptography
+  - [x] Lesson 4: Nonces & Mining
+  - [x] Lesson 5: Blockchain Architecture
+  - [x] Mini-Blockchain Project
+- [/] **Phase 2: Solana Architecture & Ecosystem**
+  - [x] Diagnostic/Refresher Check
+  - [x] Proof of History (PoH) Deep Dive
+  - [x] Solana Account Model vs EVM
+  - [x] Transactions, Instructions & Execution Flow
+  - [x] Fees, Rent, and Compute Units (CUs)
+  - [/] SPL Tokens & ATAs (Current Step)
+  - [ ] Diagramming Architecture Exercises
+- [ ] **Phase 3: Solana Client-Side Deep Dive**
+  - [ ] Week 1: Core SDK & Wallet Adapter
+  - [ ] Week 2: SPL Tokens & Account Data
+  - [ ] Week 3: Solana Pay, Actions & Blinks
+- [ ] **Phase 4: DeFi, NFT & dApp Interaction**
+  - [ ] Jupiter Swap, Raydium, Orca
+  - [ ] Pyth & Switchboard Oracles
+  - [ ] Metaplex Umi, Candy Machine & cNFTs
+  - [ ] Token Launchpad (Client-Side)
+- [ ] **Phase 5: Anchor IDL Consumer & dApp Architecture**
+  - [ ] Consuming Deployed Programs with IDL
+  - [ ] SIWS Authentication & Indexing
+- [ ] **Phase 6: Full-Stack Portfolio (Pre-Rust)**
+  - [ ] Project A: DeFi Analytics Dashboard
+  - [ ] Project B: Token Launchpad Platform
+- [ ] **Phase 7: Rust Core**
+  - [ ] Ownership, Borrowing, Lifetimes
+  - [ ] Structs, Enums, Traits, & Generics
+  - [ ] Borsh Serialization
+- [ ] **Phase 8: Native Solana Programs**
+  - [ ] Entrypoint & Instruction Processing
+  - [ ] Account Validation & PDAs
+  - [ ] Native Escrow Project
+- [ ] **Phase 9: Anchor Framework & Advanced Programs**
+  - [ ] Anchor Macros & Constraints
+  - [ ] Staking & Bonding Curve Programs
+  - [ ] Capstone Portfolio Projects
